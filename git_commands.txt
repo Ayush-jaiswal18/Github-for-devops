@@ -1,3 +1,4 @@
+
 git init
 git status
 git status
@@ -5,5 +6,18 @@ git add test.py
 git status
 git commit -m "added testing files"
 rm test.py
+git status
 git restore test.py
 git status
+git add commads.txt
+git add commands.txt
+git add git_commands.txt
+git add git_commands.txt
+git status
+git commit -m "added commands file"
+git status
+git remote add origin https://github.com/Ayush-jaiswal18... 
+git remote -v
+git remote set-url origin https://ghp_6w621uEXa80Bd38jA2... 
+git remote -v
+git push origin master
